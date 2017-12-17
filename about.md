@@ -21,6 +21,9 @@ Information Technology student in [Computer Networking](http://www.quixada.ufc.b
 [History](https://www.dropbox.com/s/666a5lhws6rjnrm/historico_367957.pdf?dl=0)
 
 GitHub: [@isaccavalcante](github.com/isaccavalcante)
+
 LinkedIn: [isaccavalcante](linkedin.com/in/isaccavalcante)
+
 Instagram: [@isac.jpg](instagram.com/isac.jpg)
+
 Email: [isaccavalcante@alu.ufc.br](mailto:isaccavalcante@alu.ufc.br)
