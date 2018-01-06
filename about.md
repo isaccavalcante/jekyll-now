@@ -10,10 +10,10 @@ Information Technology student in [Computer Networking](http://www.quixada.ufc.b
 
 Email: [isaccavalcante@alu.ufc.br](mailto:isaccavalcante@alu.ufc.br)
 
-GitHub: [@isaccavalcante](github.com/isaccavalcante)
+GitHub: [@isaccavalcante](https://github.com/isaccavalcante)
 
-Instagram: [@isac.jpg](instagram.com/isac.jpg)
+Instagram: [@isac.jpg](https://instagram.com/isac.jpg)
 
-LinkedIn: [isaccavalcante](linkedin.com/in/isaccavalcante)
+LinkedIn: [isaccavalcante](https://linkedin.com/in/isaccavalcante)
 
 
