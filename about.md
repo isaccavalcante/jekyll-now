@@ -1,7 +1,7 @@
 ---
-layout: page
 title: About
-permalink: /about/
+permalink: "/about/"
+layout: page
 ---
 
 I'm an aspiring full stack developer. I love traveling, animals, hacking and music.
